@@ -1,0 +1,10 @@
+modsEnabled:
+  sql:
+    enabled: true
+    dialect: mysql
+    server: localhost
+    port: 3306
+    login: radius
+    password: radius
+    radiusdb: radiusdb
+    tableClient: nas
