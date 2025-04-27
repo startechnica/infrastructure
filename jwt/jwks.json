@@ -1,0 +1,10 @@
+{
+    "keys": [
+      {
+          "kty": "oct",
+          "use": "sig",
+          "k": "dTRvNC1jPT0rYV56aCh4X3Mod2kmJmE9cTNkNCFsejU5PXJtXzE2dG0rMjc5MmEpMHg",
+          "alg": "HS256"
+      }
+    ]
+}
